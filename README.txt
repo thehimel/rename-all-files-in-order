@@ -8,9 +8,9 @@ d1
 
 d2
 - 1. Intorduction.mp4
-- 10. What is Stack.mp4
-- 11.1 Implement Stack.mp4
-- 11.1 Implement Stack.html
+- 22. What is Stack.mp4
+- 42.1 Implement Stack.mp4
+- 42.1 Implement Stack.html
 
 ###With the help of this script, it wIll be converted to:
 ---------------------------------------------------------
@@ -22,6 +22,6 @@ d1
 
 d2
 - C02L01 Intorduction.mp4
-- C02L10 What is Stack.mp4
-- C02L11.1 Implement Stack.mp4
-- C02L11.1 Implement Stack.html
+- C02L22 What is Stack.mp4
+- C02L42.1 Implement Stack.mp4
+- C02L42.1 Implement Stack.html
