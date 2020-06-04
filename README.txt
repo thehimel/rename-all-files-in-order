@@ -12,7 +12,7 @@ d2
 - 42.1 Implement Stack.mp4
 - 42.2 Implement Stack.html
 
-###With the help of this script, it wIll be converted to:
+With the help of this script, it wIll be converted to:
 ---------------------------------------------------------
 d1
 - C01L01 Intoduction.mp4
