@@ -68,7 +68,8 @@ def main():
             if file != script_name:
                 file_name = os.path.join(r, file)
                 new_file_name = os.path.join(r, get_new_file_name(file))
-                print(file_name, new_file_name)
+                # Because of encoding problem while printing, print() is commented.
+                # print(file_name, new_file_name)
                 rename(file_name, new_file_name)
         increment_chapter()
 
